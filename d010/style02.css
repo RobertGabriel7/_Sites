@@ -7,10 +7,13 @@
     --fonte:arial;
 }
 body{
-    background-color: #3DDB84;
+   /* background-color: #3DDB84;*/
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
+<<<<<<< HEAD
     
+=======
+>>>>>>> df47500b18d54b02b592abad7325812251253e6a
     
 }
 @font-face {
