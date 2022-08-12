@@ -165,6 +165,9 @@ main{
 img{
     width: 100%;
 }
+img#irina{
+    border-radius: 10px;
+}
 img#k{
     display: block;
     max-width:370px;
