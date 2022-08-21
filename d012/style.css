@@ -9,6 +9,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-size: 3vw;
 }
 header{
     background-color: black;
@@ -20,6 +21,8 @@ header > h1{
     padding: 15px;
     text-align: center;
     font-family: cordel;
+    font-size: 3em;
+    
 }
 header > p{
     color: white;
@@ -29,7 +32,7 @@ section{
     padding: 20px;
     padding-left: 25px;
     font-family: blz;
-    font-size: 2vw;
+    
 }
 section.imagem{
     background-color: aqua;
