@@ -36,8 +36,11 @@ header >p>a:hover{
 section{
     padding: 20px;
     padding-left: 25px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     font-family: blz;
     font-size: 3vw;
+    line-height: 13.50vh;
 }
 section.imagem{
     background-color: aqua;
